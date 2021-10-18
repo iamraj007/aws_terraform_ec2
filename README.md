@@ -8,6 +8,6 @@ Terraform code to create AWS EC2 resource
 - Please change variable input file to update: region,availability_zone,ec2_instance_type etc
 
 ## How to use/ apply it?
-terraform apply --var-file="tf-variable-file.tfvar"
+terraform apply --var-file="var-file.tfvars"
 
 ![EC2](https://user-images.githubusercontent.com/47947075/137697511-35e0149f-277d-48ce-8b09-1b7f8c9e183d.png)
