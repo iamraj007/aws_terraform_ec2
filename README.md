@@ -9,3 +9,5 @@ Terraform code to create AWS EC2 resource
 
 ## How to use/ apply it?
 terraform apply --var-file="tf-variable-file.tfvar"
+
+![EC2](https://user-images.githubusercontent.com/47947075/137697511-35e0149f-277d-48ce-8b09-1b7f8c9e183d.png)
